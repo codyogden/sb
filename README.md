@@ -2,7 +2,7 @@
 
 This is a simple example of a working Storybook 7 setup that can be deployed alongside Next.js in a monorepo on Vercel.
 
-**Deployment Site:** https://sb-web-indol.vercel.app/
+**Deployment Site:** https://sb-web-flame.vercel.app/
 
 
 Uses:
