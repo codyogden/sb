@@ -1,0 +1,9 @@
+{
+    "name": "sb",
+    "workspaces": [
+        "apps/*"
+    ],
+    "devDependencies": {
+        "turbo": "^1.9.3"
+    }
+}
